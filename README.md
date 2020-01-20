@@ -10,7 +10,7 @@
     # 标记状态  status
 
 存入数据库效果图：
-
+![](https://github.com/HHrxxx/taxCrawl/blob/master/DB_DataPicture.png)
 
 
 ## 国家税务总局----最新文件
