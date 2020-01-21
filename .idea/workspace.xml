@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WZiWiA2BR2MWuHOTVbUDFwQjmv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +35,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.disPy">
+  <component name="RunManager" selected="Python.chinaTaxNewsPy">
     <configuration name="MysqlConn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="testPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,6 +50,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MysqlConn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="beijingTaxPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beijingTaxPy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chinaTaxNewsPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="testPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chinaTaxNewsPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,6 +126,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.chinaTaxNewsPy" />
+        <item itemvalue="Python.beijingTaxPy" />
         <item itemvalue="Python.disPy" />
         <item itemvalue="Python.MysqlConn" />
       </list>
@@ -108,44 +157,93 @@
       <updated>1579363550406</updated>
       <workItem from="1579363555659" duration="592000" />
       <workItem from="1579364178778" duration="7594000" />
+      <workItem from="1579637023128" duration="1582000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="518" y="188" key="FileChooserDialogImpl" timestamp="1579371778855">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
     <state x="518" y="188" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1579371778855" />
-    <state width="1431" height="155" key="GridCell.Tab.0.bottom" timestamp="1579371780397">
+    <state width="715" height="277" key="GridCell.Tab.0.bottom" timestamp="1579638588324">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="155" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1579371780397" />
-    <state width="1431" height="155" key="GridCell.Tab.0.center" timestamp="1579371780397">
+    <state width="715" height="277" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1579638588324" />
+    <state width="715" height="277" key="GridCell.Tab.0.center" timestamp="1579638588324">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="155" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1579371780397" />
-    <state width="1431" height="155" key="GridCell.Tab.0.left" timestamp="1579371780397">
+    <state width="715" height="277" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1579638588324" />
+    <state width="715" height="277" key="GridCell.Tab.0.left" timestamp="1579638588324">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="155" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1579371780397" />
-    <state width="1431" height="155" key="GridCell.Tab.0.right" timestamp="1579371780397">
+    <state width="715" height="277" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1579638588324" />
+    <state width="715" height="277" key="GridCell.Tab.0.right" timestamp="1579638588324">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state width="1431" height="155" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1579371780397" />
-    <state x="239" y="75" key="SettingsEditor" timestamp="1579368261570">
+    <state width="715" height="277" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1579638588324" />
+    <state width="715" height="277" key="GridCell.Tab.1.bottom" timestamp="1579638590704">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="239" y="75" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1579368261570" />
-    <state x="418" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1579364188052">
+    <state width="715" height="277" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1579638590704" />
+    <state width="715" height="277" key="GridCell.Tab.1.center" timestamp="1579638590704">
       <screen x="0" y="0" width="1474" height="864" />
     </state>
-    <state x="418" y="257" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1579364188052" />
+    <state width="715" height="277" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1579638590704" />
+    <state width="715" height="277" key="GridCell.Tab.1.left" timestamp="1579638590704">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="715" height="277" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1579638590704" />
+    <state width="715" height="277" key="GridCell.Tab.1.right" timestamp="1579638590704">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="715" height="277" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1579638590704" />
+    <state x="239" y="75" key="SettingsEditor" timestamp="1579637084604">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="239" y="75" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1579637084604" />
+    <state x="418" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1579637031592">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="418" y="257" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1579637031592" />
+    <state x="531" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579637561199">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="531" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1474.864@0.0.1474.864" timestamp="1579637561199" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/beijingTaxPy.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chinaTaxNewsPy.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/testPy$disPy.coverage" NAME="disPy Coverage Results" MODIFIED="1579370835816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taxCrawl$beijingTaxPy.coverage" NAME="beijingTaxPy Coverage Results" MODIFIED="1579637473174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taxCrawl$chinaTaxNewsPy.coverage" NAME="chinaTaxNewsPy Coverage Results" MODIFIED="1579638588060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/testPy$MysqlConn.coverage" NAME="MysqlConn Coverage Results" MODIFIED="1579370075486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
